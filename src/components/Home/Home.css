@@ -1,0 +1,17 @@
+.homepage-bgimage {
+    background: url("https://blog.contactpigeon.com/wp-content/uploads/2018/05/eCommerce-Best-Checkout-Pages-2018.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif; 
+    background: linear-gradient(to right, rgb(20, 137, 210), rgb(255, 0, 0));
+  }
+
+  body {
+    background: linear-gradient(to right, rgb(20, 137, 210), rgb(255, 0, 0));
+  }
